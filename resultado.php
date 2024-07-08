@@ -36,7 +36,7 @@ if (isset($_GET['numero'])) {
         </div>
 
         <div>
-            <button class="button-sorteio"><a href="sorteio.php">Novo sorteio</a></button>
+            <button class="button-sorteio"><a href="index.php">Novo sorteio</a></button>
         </div>
     </div>
 </body>
